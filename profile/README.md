@@ -1,4 +1,4 @@
-# evNLP Repositories
+# evNLP: Índice de Repositorios
 
 Este documento describe cada repositorio disponible en la organización [evNLP](https://github.com/orgs/evNLP/repositories). Los proyectos están orientados a distintas áreas del procesamiento del lenguaje natural (NLP), abordando tareas como clasificación de texto, traducción automática y modelos de atención.
 
