@@ -4,6 +4,15 @@ Este documento describe cada repositorio disponible en la organización [evNLP](
 
 <br>
 
+### [self_attention](https://github.com/evNLP/self_attention)
+Este proyecto está dedicado a la implementación de modelos basados en Transformers, específicamente el mecanismo de autoatención. Los modelos desarrollados en este repositorio son ideales para tareas como resumen de texto, clasificación y traducción automática.  
+**Características principales**:
+- Implementación de módulos de autoatención desde cero en PyTorch.
+- Ejemplos de uso en tareas como modelado de secuencias y análisis de texto.
+- Base para entender y extender modelos más avanzados como BERT y GPT.
+
+<br>
+
 ### [lstm_attention](https://github.com/evNLP/lstm_attention)
 Este repositorio implementa un modelo de atención en combinación con LSTM (Long Short-Term Memory). Se centra en tareas como la traducción automática y mejora la capacidad del modelo para enfocarse en las partes más relevantes de las secuencias de entrada.  
 **Características principales**:
@@ -46,15 +55,6 @@ Este repositorio se centra en el modelo Bag of Words (BOW) para la representaci�
 - Métodos para crear representaciones BOW a partir de corpus de texto.
 - Comparación entre documentos utilizando métricas como coseno de similitud.
 - Ideal para tareas de clasificación y recuperación de información.
-
-<br>
-
-### [self_attention](https://github.com/evNLP/self_attention)
-Este proyecto está dedicado a la implementación de modelos basados en Transformers, específicamente el mecanismo de autoatención. Los modelos desarrollados en este repositorio son ideales para tareas como resumen de texto, clasificación y traducción automática.  
-**Características principales**:
-- Implementación de módulos de autoatención desde cero en PyTorch.
-- Ejemplos de uso en tareas como modelado de secuencias y análisis de texto.
-- Base para entender y extender modelos más avanzados como BERT y GPT.
 
 <br>
 
