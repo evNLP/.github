@@ -1,7 +1,3 @@
-Here’s the updated **cool README** with the correct repository names from **evNLP**:
-
----
-
 # Welcome to evNLP 🚀  
 
 At **evNLP**, we’re crafting the future of Natural Language Processing. Whether it’s experimenting with embeddings, optimizing Transformers, or creating state-of-the-art classifiers, our repositories are here to empower researchers, developers, and enthusiasts. Dive in and let’s revolutionize NLP together.
